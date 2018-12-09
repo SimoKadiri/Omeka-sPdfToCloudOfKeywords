@@ -37,5 +37,13 @@ Qui peut utiliser PDF To Cloud Of Keywords ?
 --------------------------------------------
  
  --> PDF To Cloud Of Keywords convient a n'importe quel type d'utilisateur (Etudiants, Chercheurs, Professeurs, Commercials, etc.) qui         reçoit des fichier pdf long (contrats, conditions d'utilisation, manuels, etc.).
-  
+
+Notez bien !
+------------
+Ce projet est réalisé dans un cadre universitaire et ne fonctionne pas correctement.
+
+Captures d'écran : 
+------------------
+
+
   
