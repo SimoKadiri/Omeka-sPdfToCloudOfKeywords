@@ -42,8 +42,8 @@ Notez bien !
 ------------
 Ce projet est réalisé dans un cadre universitaire et ne fonctionne pas correctement.
 
-Captures d'écran : 
+En un schéma : 
 ------------------
 
-
+![Shéma PdfToCloudOfKeywords](D:\module\schéma.PNG)
   
