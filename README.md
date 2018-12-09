@@ -45,5 +45,5 @@ Ce projet est réalisé dans un cadre universitaire et ne fonctionne pas correct
 En un schéma : 
 ------------------
 
-![Shéma PdfToCloudOfKeywords] (D:\module\schéma.PNG)
+![Shéma PdfToCloudOfKeywords](D:/module/schéma.PNG)
   
