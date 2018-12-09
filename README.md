@@ -45,5 +45,5 @@ Ce projet est réalisé dans un cadre universitaire et ne fonctionne pas correct
 En un schéma : 
 ------------------
 
-![Shéma PdfToCloudOfKeywords](http://cdn.onlinewebfonts.com/svg/img_215257.png)
+![Shéma PdfToCloudOfKeywords](https://drive.google.com/open?id=1UMQ8uNItP0VRG5L28zBTT0HXWzgt5pXr)
   
