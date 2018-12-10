@@ -45,5 +45,5 @@ Ce projet est réalisé dans un cadre universitaire et ne fonctionne pas correct
 En un schéma : 
 ------------------
 
-![Shéma PdfToCloudOfKeywords](https://drive.google.com/file/d/1UMQ8uNItP0VRG5L28zBTT0HXWzgt5pXr/view?usp=sharing/schéma.PNG)
+![Shéma PdfToCloudOfKeywords](https://github.com/SimoKadiri/Omeka-sPdfToCloudOfKeywords/blob/master/sch%C3%A9ma.PNG)
   
