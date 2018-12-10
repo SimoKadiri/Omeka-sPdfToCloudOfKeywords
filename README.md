@@ -40,10 +40,23 @@ Qui peut utiliser PDF To Cloud Of Keywords ?
 
 Notez bien !
 ------------
-Ce projet est réalisé dans un cadre universitaire et ne fonctionne pas correctement.
+Ce projet est réalisé dans un cadre universitaire, la phase de développement n'est pas terminée et le module ne fonctionne pas correctement.
+
+Outils et technologies utilisés :
+---------------------------------
+
+* Php : Le language de programmation utilisé.
+* Zend Framework : Le framework utilisé pour le développement du module.
+* Composer : Outil permettant d'installer Zend Framework et de l'integrer au projet.
+* Html : Représentation des pages web.
+* Css : Feuilles de style pour définir le design de l'interface.
+* Github : Plateforme de partage du module.
+* Omeka-s : Plateforme destinée à l'execution du module.
+
 
 En un schéma : 
-------------------
+--------------
 
 ![Shéma PdfToCloudOfKeywords](https://github.com/SimoKadiri/Omeka-sPdfToCloudOfKeywords/blob/master/sch%C3%A9ma.PNG)
+
   
